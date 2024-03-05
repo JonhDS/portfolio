@@ -1,5 +1,7 @@
 import './main.css'
 import Projects from './projects'
+import DivStyle from './components.style/div.style'
+import SectionStyle from './components.style/section.style'
 
 const Main = () => {
     return (
@@ -20,12 +22,12 @@ const Main = () => {
                     <img src="./src/assets/images/jonathan.png" alt="" />
                 </div>
             </section>
-            <section>
+            <SectionStyle>
                 <h1>Meus Projetos</h1>
-                <div className='projects'>
+                <DivStyle>
                     <Projects/>
-                </div>
-            </section>
+                </DivStyle>
+            </SectionStyle>
         </div>
     )
 }
