@@ -45,3 +45,8 @@ article p {
     border-radius: 5px;
     background-color: red;
 }
+
+.textp {
+    border-left: 1px solid white;
+    padding: 10px;
+}
