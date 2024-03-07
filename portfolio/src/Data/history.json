@@ -1,29 +1,29 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Analise e Desenvolvimento de Sistemas",
+      "organisation": "UNINASSAU",
+      "startDate": "Nov, 2023  ",
+      "endDate": "Nov, 2025",
+      "experiences": ["Prático e teórico", "Foco em resolução de problemas"],
+      "imageSrc": "history/uninassau.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "FullStack",
+      "organisation": "Capgemini",
+      "startDate": "Nov, 2023 ",
+      "endDate": "Mar, 2024",
+      "experiences": ["BackEnd -> Java", "FrontEnd -> Angular"],
+      "imageSrc": "history/capgemini.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Repositorios",
+      "organisation": "Git - Github",
+      "startDate": "Nov, 2023 ",
+      "endDate": "Presente",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Sistema de controle de versão distribuído",
+        "Plataforma de hospedagem de código-fonte e colaboração"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/github.png"
     }
   ]
